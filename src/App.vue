@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-     <img src="./assets/logo.png">
-    <h1>test </h1>
-    <BookList></BookList>
+     <img src="./assets/logo.png">   
+     <book-list></book-list>
   </div>
 </template>
 
