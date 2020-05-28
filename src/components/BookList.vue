@@ -27,9 +27,7 @@ export default {
         };        
     } ,
     
-    components:[
-        BookItem,
-    ]
+    components: {BookItem}
 };
 </script>
 
